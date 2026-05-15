@@ -17,6 +17,7 @@ dependencies = [
     "scipy>=1.17.1",
     "seaborn>=0.13.2",
     "spacy>=3.8.14",
+    "tensorflow[and-cuda]>=2.21.0",
     "tqdm>=4.67.3",
     "transformers>=5.8.1",
     "xgboost>=3.2.0",
