@@ -12,4 +12,6 @@ wheels/
 # Claude Code
 CLAUDE.md
 
-/data 
+/data
+/datasets
+
